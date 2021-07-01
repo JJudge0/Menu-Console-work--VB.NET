@@ -1,7 +1,7 @@
 Imports System.Text 'allows placing import statements at the top of the program.
 Imports System.Math ' allows importing of the math equations without writing out equations fully.
 Module Module1
-    Sub Main() 'Name: Jatinder Judge Student:1945979
+    Sub Main() 'Name: JJ
         Console.WriteLine("5.2 RECRUSIVE FUNCTIONS----------------------------------------------------------")
         'Console.WriteLine("What is a Recrusive function?")
         'Console.WriteLine("A recursive function is a function that calls itself during its execution. This enables the function to repeat itself several times, outputting the result and the end of each iteration")
