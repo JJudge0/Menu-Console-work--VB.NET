@@ -21,4 +21,16 @@
 Going into the **Help Option**: 
 ![image](https://user-images.githubusercontent.com/73240114/138008159-614e73d8-7ebe-4f30-b847-ca480b705019.png)
 
+## Requirements 🔧
+Java version 8 or higher.
+## Installation 🔌
+#### 1) Press the Fork button (top right the page) to save copy of this project on your account.
+
+#### 2) Download the repository files (project) from the download section or clone this project by typing in the bash the following command:
+
+#### 3) git clone https://github.com/JJudge0/Menu-Console-work--VB.NET.git
+Imported it in VS CODE or any other Java IDE.
+
+Run the application :D
+
 
