@@ -1,5 +1,8 @@
 # CS0002-course-work--VB.NET--Specification:
 
+#### This was a simple console command line interface that I worked on using VB.Net during my the start of my University.
+
+
 ## | Assessment Elements	Weighting	Descriptions:                                                                                                                                                                                                                                                                                                                       
 #### | 1)-Verbal Presentation	25%	Each student needs to demonstrate their program, and more importantly, explain how their program works.                                             
 
